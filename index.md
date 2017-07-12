@@ -22,3 +22,20 @@
 
 ### Saturday 1st July 2017
 -Completed the tutorial videos given to me.
+
+### Monday 10th July 2017
+- I got a better understanding of objects and their properties
+- I learnt that you can only split strings
+- I learnt about the use of join for arrays
+- I learnt how to use the For , for in and for each Loops repectively
+- I learnt how to iterate through an array
+- I learnt about Number.prototype.toString
+- I learnt about newRegExp
+- I learnt how to check if something is an array (array.isarray)
+
+### Tuesday 11th July 2017
+- I learned a little about node.js
+
+### Wednesday 12th July 2017
+- I learnt how to build a todo app using html,css,javascript and bootstrap
+
